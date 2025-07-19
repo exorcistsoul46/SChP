@@ -24,7 +24,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // Typing effect for final message on third page
     if (finalMessage) {
         setTimeout(() => {  // 🟢 2-second delay before typing starts
-            let message = `Pata nahi kyoon mujhe yeh kehna chahiye ki nahi,
+            let message = ` मेरी प्रियतमा 
+            Pata nahi kyoon mujhe yeh kehna chahiye ki nahi,
 lekin log kehte hain ki koi bhi baat apne andar nahi rakhni chahiye.
 
 Pata nahi kyoon, lekin main tumhe dheere-dheere pasand karne laga hoon.
